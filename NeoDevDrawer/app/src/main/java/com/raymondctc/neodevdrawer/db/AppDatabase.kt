@@ -6,6 +6,7 @@ import android.arch.persistence.room.RoomDatabase
 import android.content.Context
 import com.raymondctc.neodevdrawer.db.dao.AppDao
 import com.raymondctc.neodevdrawer.db.dao.FilterDao
+import com.raymondctc.neodevdrawer.db.dao.LocaleDao
 import com.raymondctc.neodevdrawer.db.entity.App
 import com.raymondctc.neodevdrawer.db.entity.Filter
 import com.raymondctc.neodevdrawer.db.entity.Locale

@@ -1,4 +1,4 @@
-package com.raymondctc.neodevdrawer.db
+package com.raymondctc.neodevdrawer.db.dao
 
 import android.arch.persistence.room.Dao
 import android.arch.persistence.room.Delete
